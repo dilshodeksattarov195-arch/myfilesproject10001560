@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cartfalidate",
+        "uuid": 7979400,
+        "checksum": "u9t5ht"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
